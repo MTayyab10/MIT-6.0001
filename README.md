@@ -1,1 +1,1 @@
-# MIT-6.0001-Intr-to-CS-using-Python
+# 6.0001 Introduction to Computer Science and Programming in Python
